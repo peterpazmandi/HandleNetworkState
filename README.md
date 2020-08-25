@@ -1,4 +1,4 @@
-# HandleNetworkState
+## Handle Network State - Android tutorial in Kotlin
 
 A sample app which handle the network state change using observarble LiveData.
 
